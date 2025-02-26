@@ -1,0 +1,37 @@
+.login-pf body {
+  background: #dcd3c6;  
+}
+
+#kc-header-wrapper {
+  box-shadow: 0 1rem 2rem 0 rgba(3,3,3,.16),0 0 0.5rem 0 rgba(3,3,3,.1);
+  text-transform: initial;
+  font-family: "RedHatDisplay", helvetica, arial, sans-serif;
+  padding: 40px;
+}
+
+#kc-header-wrapper h3 {
+  color: #000;
+}
+
+#kc-header-wrapper img {
+  max-width: 80%;
+}
+
+.pf-v5-c-login__main {
+  background: #dcd3c6;
+}
+
+.pf-v5-c-form-control  {
+  background: #fff;
+  color: #000;
+}
+
+.login-pf button.pf-m-primary {
+  border-radius: 15px;
+  background: #000;
+  text-transform: uppercase;
+}
+
+.login-pf .pf-v5-c-form__label {
+  padding-bottom: 5px;
+}
